@@ -20,3 +20,7 @@ A modern food ordering application built using Kotlin and Jetpack Compose. The a
 - **State Management**: ViewModel + Compose State
 - **API**: [TheMealDB](https://www.themealdb.com/api.php)
 
+<img width="350" height="623" alt="Screenshot (901)" src="https://github.com/user-attachments/assets/39124bea-734c-4248-ab62-a36fe29f300d" />
+<img width="346" height="642" alt="Screenshot (902)" src="https://github.com/user-attachments/assets/daa6fbee-e75d-44a3-ae3b-21a161089759" />
+<img width="350" height="623" alt="Screenshot (903)" src="https://github.com/user-attachments/assets/9c49037f-8f22-407f-a5da-687fca788d4a" />
+
